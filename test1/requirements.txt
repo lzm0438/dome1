@@ -9,7 +9,7 @@ decorator==4.4.2
 Django==3.2.18
 django-filter==21.1
 djangorestframework==3.14.0
-idna==3.4
+idna==3.7
 image==1.5.33
 itypes==1.2.0
 Jinja2==3.0.3
